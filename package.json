@@ -9,12 +9,15 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@react-email/components": "^1.0.7",
     "@types/mongoose": "^5.11.97",
     "mongoose": "^9.1.5",
     "moongoose": "^0.0.5",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
+    "react-email": "^5.2.8",
+    "resend": "^6.9.2",
     "zod": "^4.3.6"
   },
   "devDependencies": {
